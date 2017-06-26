@@ -1,0 +1,18 @@
+img {
+    height: 200px;
+    width: 19%;
+    margin: 10px;
+    border: 2px dotted black;
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
